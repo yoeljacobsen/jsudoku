@@ -1,7 +1,7 @@
 # jsudoku
 
-Try:
-(; svec) s98
-(; svec) s99
-(; svec) s44
+## Try:
+* (; svec) s98
+* (; svec) s99
+* (; svec) s44
 
